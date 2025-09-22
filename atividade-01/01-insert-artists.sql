@@ -19,4 +19,15 @@ VALUES
   ('Hidratante Facial FPS 30 Oil-Free', 'Francine', 39.90, 'Cuidados com a pele', 50),
   ('Primer Facial Blur Effect', 'Francine', 34.90, 'Cuidados com a pele', 40),
   ('Pó Compacto Matte Bege Claro', 'Francine', 27.90, 'Maquiagem', 90),
-  ('Gloss Labial Transparente com Brilho', 'Francine', 22.50, 'Maquiagem', 100);
+  ('Gloss Labial Transparente com Brilho', 'Francine', 22.50, 'Maquiagem', 100),
+  ('Sérum Facial Antioxidante Vitamina C', 'Francine', 54.90, 'Cuidados com a pele', 45),
+  ('Esfoliante Facial Suave', 'Francine', 26.90, 'Cuidados com a pele', 55),
+  ('Blush Compacto Rosa Queimado', 'Francine', 28.90, 'Maquiagem', 65),
+  ('Fixador de Maquiagem Spray', 'Francine', 33.90, 'Maquiagem', 75),
+  ('Lápis de Olho Preto à Prova d’Água', 'Francine', 19.90, 'Maquiagem', 85)
+  ('Água Micelar 5 em 1', 'Francine', 24.90, 'Cuidados com a pele', 70),
+  ('Contorno Facial Duo Stick', 'Francine', 31.90, 'Maquiagem', 65),
+  ('Sabonete Facial Gel Detox', 'Francine', 21.50, 'Cuidados com a pele', 80),
+  ('Caneta Delineadora Preta', 'Francine', 29.00, 'Maquiagem', 95),
+  ('Corretivo Líquido Alta Cobertura', 'Francine', 30.90, 'Maquiagem', 60);
+
