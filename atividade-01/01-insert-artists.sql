@@ -30,4 +30,3 @@ VALUES
   ('Sabonete Facial Gel Detox', 'Francine', 21.50, 'Cuidados com a pele', 80),
   ('Caneta Delineadora Preta', 'Francine', 29.00, 'Maquiagem', 95),
   ('Corretivo Líquido Alta Cobertura', 'Francine', 30.90, 'Maquiagem', 60);
-
